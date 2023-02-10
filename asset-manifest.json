@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lesson-16-router/static/css/main.5f838c98.css",
+    "main.js": "/lesson-16-router/static/js/main.22e42976.js",
+    "index.html": "/lesson-16-router/index.html",
+    "main.5f838c98.css.map": "/lesson-16-router/static/css/main.5f838c98.css.map",
+    "main.22e42976.js.map": "/lesson-16-router/static/js/main.22e42976.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f838c98.css",
+    "static/js/main.22e42976.js"
+  ]
+}
